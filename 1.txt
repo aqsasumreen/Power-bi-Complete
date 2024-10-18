@@ -1,0 +1,34 @@
+3. Product Performance Dashboard
+Charts to include:
+
+Total Product Sales Over Time (Line Chart)
+
+Sales trend for all products.
+KPI: Total Product Sales.
+Top 10 Products by Sales (Bar Chart)
+
+The most sold products.
+Product Category Sales Distribution (Pie Chart)
+
+Shows the proportion of sales from each product category.
+Product Sales by Region (Map Visualization)
+
+Visualizes sales of products across regions.
+Product Returns Rate by Category (Bar Chart)
+
+Identifies products with the highest return rates.
+Revenue Contribution by Product (Bar Chart)
+
+Compares the contribution of different products to the overall revenue.
+Slow-moving Products (Bar Chart)
+
+Highlights products with the least sales or inventory issues.
+Sales by Product Category Over Time (Line or Area Chart)
+
+Tracks the sales trend of different product categories over time.
+Slicers:
+
+Product Category
+Time Period (Year, Month)
+Region
+Store
